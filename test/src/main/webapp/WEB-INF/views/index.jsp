@@ -33,7 +33,7 @@
         <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
 
             <!-- Sidebar - Brand -->
-            <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.html">
+            <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.do">
                 <div class="sidebar-brand-text mx-3">A A S</div>
             </a>
 
@@ -50,33 +50,21 @@
 
             <!-- Nav Item - Pages Collapse Menu -->
             <li class="nav-item">
-                <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapsePages"
-                    aria-expanded="true" aria-controls="collapsePages">
+                <a class="nav-link collapsed" href="product.do">
                     <i class="fas fa-fw fa-folder"></i>
-                    <span>모니터링</span>
-                </a>
-                <div id="collapsePages" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
-                    <div class="bg-white py-2 collapse-inner rounded">
-                        <h6 class="collapse-header">제품 목록</h6>
-                        <a class="collapse-item" href="login.jsp">제품 목록</a>
-                        <a class="collapse-item" href="register.jsp">제품 등록</a>
-                        <a class="collapse-item" href="register.jsp">제품 삭제</a>
-                        
-                        <div class="collapse-divider"></div>
-                    </div>
-                </div>
+                    <span>제품 목록</span></a>
             </li>
 
             <!-- Nav Item - Charts -->
             <li class="nav-item">
-                <a class="nav-link" href="tables.jsp">
+                <a class="nav-link" href="table.do">
                     <i class="fas fa-fw fa-chart-area"></i>
                     <span>재고 상항</span></a>
             </li>
 
             <!-- Nav Item - Tables -->
             <li class="nav-item">
-                <a class="nav-link" href="order.jsp">
+                <a class="nav-link" href="order.do">
                     <i class="fas fa-fw fa-table"></i>
                     <span>발주 상황</span></a>
             </li>
@@ -207,7 +195,7 @@
 
                     <!-- Page Heading -->
                     <div class="d-sm-flex align-items-center justify-content-between mb-4">
-                        <h1 class="h3 mb-0 text-gray-800">챙��챠�� 챙�짭챗쨀� 챗쨈�챘짝짭</h1>
+                        <h1 class="h3 mb-0 text-gray-800">모니터링</h1>
                     </div>
 
                     <!-- Content Row -->

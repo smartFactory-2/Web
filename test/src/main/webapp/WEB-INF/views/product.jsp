@@ -5,7 +5,7 @@
 <html lang="en">
 
 <head>
-	
+
     <title>AAS</title>
 
     <!-- Custom fonts for this template -->
@@ -198,7 +198,7 @@
                     <!-- DataTales Example -->
                     <div class="card shadow mb-4">
                         <div class="card-header py-3">
-                            <h6 class="m-0 font-weight-bold text-primary">재고현황</h6>
+                            <h6 class="m-0 font-weight-bold text-primary">제품목록</h6>
                         </div>
                         <div class="card-body">
                             <div class="table-responsive">
@@ -209,228 +209,228 @@
                                             <th>제조사</th>
                                             <th>분류</th>
                                             <th>재고량</th>
-                                            <th>입고 날짜</th>
                                             <th>가격</th>
+                                            <th></th>
                                         </tr>
                                     </thead>
                                     <tfoot>
                                         <tr>
-                                            <th>제품 이름</th>
+                                            <th>제품</th>
                                             <th>제조사</th>
                                             <th>분류</th>
                                             <th>재고량</th>
-                                            <th>입고 날짜</th>
                                             <th>가격</th>
+                                            <th></th>
                                         </tr>
                                     </tfoot>
                                     <tbody>
-                                        <tr>
+                                           <tr>
                                             <td>LAGKAPTEN</td>
                                             <td>IKEA</td>
                                             <td>책상</td>
                                             <td>5</td>
-                                            <td>2011/04/25</td>
                                             <td>$59,000</td>
+                                            <td><button type="button" class="saveBtn" class="clickBtn">주문</button></td>
                                         </tr>
                                         <tr>
                                             <td>LINNMON</td>
                                             <td>IKEA</td>
                                             <td>책상</td>
                                             <td>6</td>
-                                            <td>2011/07/25</td>
                                             <td>$35,000</td>
+                                            <td><button type="button" class="saveBtn" class="clickBtn">주문</button></td>
                                         </tr>
                                         <tr>
                                             <td>MICKE</td>
                                             <td>IKEA</td>
                                             <td>책상</td>
                                             <td>8</td>
-                                            <td>2009/01/12</td>
                                             <td>$229,000</td>
+                                            <td><button type="button" class="saveBtn" class="clickBtn">주문</button></td>
                                         </tr>
                                         <tr>
                                             <td>KALLAX</td>
                                             <td>IKEA</td>
                                             <td>책상</td>
                                             <td>2</td>
-                                            <td>2012/03/29</td>
                                             <td>$154,900</td>
+                                            <td><button type="button" class="saveBtn" class="clickBtn">주문</button></td>
                                         </tr>
                                         <tr>
                                             <td>FREDDE</td>
                                             <td>IKEA</td>
                                             <td>책상</td>
                                             <td>3</td>
-                                            <td>2008/11/28</td>
                                             <td>$229,000</td>
+                                            <td><button type="button" class="saveBtn" class="clickBtn">주문</button></td>
                                         </tr>
                                         <tr>
                                             <td>ALEX</td>
                                             <td>IKEA</td>
                                             <td>책상</td>
                                             <td>17</td>
-                                            <td>2012/12/02</td>
                                             <td>$179,000</td>
+                                            <td><button type="button" class="saveBtn" class="clickBtn">주문</button></td>
                                         </tr>
                                         <tr>
                                             <td>MALM</td>
                                             <td>IKEA</td>
                                             <td>책상</td>
                                             <td>9</td>
-                                            <td>2012/08/06</td>
                                             <td>$169,000</td>
+                                            <td><button type="button" class="saveBtn" class="clickBtn">주문</button></td>
                                         </tr>
                                         <tr>
                                             <td>ELDBERGET</td>
                                             <td>IKEA</td>
                                             <td>의자</td>
                                             <td>15</td>
-                                            <td>2010/10/14</td>
                                             <td>$54,900</td>
+                                            <td><button type="button" class="saveBtn" class="clickBtn">주문</button></td>
                                         </tr>
                                         <tr>
                                             <td>TEODORES</td>
                                             <td>IKEA</td>
                                             <td>의자</td>
                                             <td>9</td>
-                                            <td>2009/09/15</td>
                                             <td>$29,900</td>
+                                            <td><button type="button" class="saveBtn" class="clickBtn">주문</button></td>
                                         </tr>
                                         <tr>
                                             <td>ADDE</td>
                                             <td>IKEA</td>
                                             <td>의자</td>
                                             <td>13</td>
-                                            <td>2008/12/13</td>
                                             <td>$15,000</td>
+                                            <td><button type="button" class="saveBtn" class="clickBtn">주문</button></td>
                                         </tr>
                                         <tr>
                                             <td>LOBERGET</td>
                                             <td>IKEA</td>
                                             <td>의자</td>
                                             <td>18</td>
-                                            <td>2008/12/19</td>
                                             <td>$41,900</td>
+                                            <td><button type="button" class="saveBtn" class="clickBtn">주문</button></td>
                                         </tr>
                                         <tr>
                                             <td>ODGER</td>
                                             <td>IKEA</td>
                                             <td>의자</td>
                                             <td>22</td>
-                                            <td>2013/03/03</td>
                                             <td>$99,900</td>
+                                            <td><button type="button" class="saveBtn" class="clickBtn">주문</button></td>
                                         </tr>
                                         <tr>
                                             <td>MARKUS</td>
                                             <td>IKEA</td>
                                             <td>의자</td>
                                             <td>6</td>
-                                            <td>2008/10/16</td>
                                             <td>$199,900</td>
+                                            <td><button type="button" class="saveBtn" class="clickBtn">주문</button></td>
                                         </tr>
                                         <tr>
                                             <td>MATCHSPEL</td>
                                             <td>IKEA</td>
                                             <td>의자</td>
                                             <td>13</td>
-                                            <td>2012/12/18</td>
                                             <td>$179,000</td>
+                                            <td><button type="button" class="saveBtn" class="clickBtn">주문</button></td>
                                         </tr>
                                         <tr>
                                             <td>ALEFJALL</td>
                                             <td>IKEA</td>
                                             <td>의자</td>
                                             <td>19</td>
-                                            <td>2010/03/17</td>
                                             <td>$279,000</td>
+                                            <td><button type="button" class="saveBtn" class="clickBtn">주문</button></td>
                                         </tr>
                                         <tr>
                                             <td>NORDLI</td>
                                             <td>IKEA</td>
                                             <td>침대</td>
                                             <td>6</td>
-                                            <td>2012/11/27</td>
                                             <td>$359,000</td>
+                                            <td><button type="button" class="saveBtn" class="clickBtn">주문</button></td>
                                         </tr>
                                         <tr>
                                             <td>GLADSTAD</td>
                                             <td>IKEA</td>
                                             <td>침대</td>
                                             <td>4</td>
-                                            <td>2010/06/09</td>
                                             <td>$279,000</td>
+                                            <td><button type="button" class="saveBtn" class="clickBtn">주문</button></td>
                                         </tr>
                                         <tr>
                                             <td>HEMNES</td>
                                             <td>IKEA</td>
                                             <td>침대</td>
                                             <td>9</td>
-                                            <td>2009/04/10</td>
                                             <td>$399,900</td>
+                                            <td><button type="button" class="saveBtn" class="clickBtn">주문</button></td>
                                         </tr>
                                         <tr>
                                             <td>BLAKULLEN</td>
                                             <td>IKEA</td>
                                             <td>침대</td>
                                             <td>17</td>
-                                            <td>2012/10/13</td>
                                             <td>$169,000</td>
+                                            <td><button type="button" class="saveBtn" class="clickBtn">주문</button></td>
                                         </tr>
                                         <tr>
                                             <td>VEVELSTAD</td>
                                             <td>IKEA</td>
                                             <td>침대</td>
                                             <td>5</td>
-                                            <td>2012/09/26</td>
                                             <td>$159,800</td>
+                                            <td><button type="button" class="saveBtn" class="clickBtn">주문</button></td>
                                         </tr>
                                         <tr>
                                             <td>SLAKT</td>
                                             <td>IKEA</td>
                                             <td>침대</td>
                                             <td>30</td>
-                                            <td>2011/09/03</td>
                                             <td>$334,000</td>
+                                            <td><button type="button" class="saveBtn" class="clickBtn">주문</button></td>
                                         </tr>
                                         <tr>
                                             <td>SODERHAMN</td>
                                             <td>IKEA</td>
                                             <td>소파</td>
                                             <td>4</td>
-                                            <td>2009/06/25</td>
                                             <td>$699,900</td>
+                                            <td><button type="button" class="saveBtn" class="clickBtn">주문</button></td>
                                         </tr>
                                         <tr>
                                             <td>ANGERSBY</td>
                                             <td>IKEA</td>
                                             <td>소파</td>
                                             <td>21</td>
-                                            <td>2011/12/12</td>
                                             <td>$179,000</td>
+                                            <td><button type="button" class="saveBtn" class="clickBtn">주문</button></td>
                                         </tr>
                                         <tr>
                                             <td>EKTORP</td>
                                             <td>IKEA</td>
                                             <td>소파</td>
                                             <td>23</td>
-                                            <td>2010/09/20</td>
                                             <td>$449,000</td>
+                                            <td><button type="button" class="saveBtn" class="clickBtn">주문</button></td>
                                         </tr>
                                         <tr>
                                             <td>LANGARYD</td>
                                             <td>IKEA</td>
                                             <td>소파</td>
                                             <td>4</td>
-                                            <td>2009/10/09</td>
                                             <td>$999,000</td>
+                                            <td><button type="button" class="saveBtn" class="clickBtn">주문</button></td>
                                         </tr>
                                         <tr>
                                             <td>KIVIK</td>
                                             <td>IKEA</td>
                                             <td>소파</td>
                                             <td>4</td>
-                                            <td>2010/12/22</td>
                                             <td>$699,000</td>
+                                            <td><button type="button" class="saveBtn" class="clickBtn">주문</button></td>
                                         </tr>
                                     </tbody>
                                 </table>
